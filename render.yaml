@@ -3,7 +3,7 @@ services:
     name: bulkloader-bot
     env: python
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python3 -m Bot"
+    startCommand: "python -m Bot"
     plan: free
     envVars:
       - key: APP_ID
