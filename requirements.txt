@@ -1,0 +1,6 @@
+git+https://github.com/X-Gorn/pyrogram.git@dev
+TgCrypto
+yt-dlp
+hachoir
+python-dotenv
+flask
